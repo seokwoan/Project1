@@ -52,7 +52,7 @@ void main() {
 
 
 	// 나의 이름과 나이, 전화번호를 입력하고 출력하기
-	char name[7];
+	char name[7]; // 정적배열의 경우 넣을 값보다 크게 만들어 여유를 두는게 좋다 -> 딱 7이 아니라 여유를 주는게 좋다
 	int age;
 	char tel[14];
 	printf("이름을 입력하세요\n");
@@ -66,8 +66,6 @@ void main() {
 	printf("\n이름 : %s\n", name);
 	printf("나이 : %d세\n", age);
 	printf("연락처 : %s\n", tel);
-
-
 
 
 }

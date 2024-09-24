@@ -24,5 +24,11 @@
     <ClCompile Include="array2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="array3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
