@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include <time.h>
 
 #define arr_size 10 // define으로 상수를 정의할때는 타입상관없이 저장 가능하다
 
