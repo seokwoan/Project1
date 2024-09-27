@@ -72,5 +72,31 @@
     <ClCompile Include="struct2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="carMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="initial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="moving.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="struct_file.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="func_file.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="autoDriving.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
